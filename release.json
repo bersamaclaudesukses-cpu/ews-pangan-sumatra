@@ -1,0 +1,19 @@
+{
+  "status": "paket siap; belum merupakan bukti deployment",
+  "unit": "kabupaten/kota",
+  "n_regions": 154,
+  "models": [
+    "Persistence",
+    "RandomForest",
+    "LightGBM"
+  ],
+  "validation_years": [
+    2022,
+    2023
+  ],
+  "historical_evaluation": 2024,
+  "provisional_snapshot": 2025,
+  "requires_backend": false,
+  "font": "Times New Roman",
+  "sha256_index": "8d50aa8910faa043aa6ceafda09c109d190b88bbd735817500d9604bbf0504ec"
+}

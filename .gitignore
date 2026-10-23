@@ -1,0 +1,15 @@
+# Berkas publikasi saja; jangan tambahkan data mentah atau kredensial.
+.DS_Store
+.env
+.env.*
+!.env.example
+.venv/
+node_modules/
+__pycache__/
+data/
+*.dta
+*.dbf
+*.accdb
+*.joblib
+*.ipynb
+*.zip
